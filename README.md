@@ -1,32 +1,5 @@
 Hi there 👋
 
-"I speak courament Java,🐍 , and **Sarcasm** 😈. My code is so clean you could eat on it. But don’t do it, crumbs are the keyboard’s worst enemy.
-
-## My Equipment
-- **IDE**: Where I do black magic with endless loops.
-- **Coffee**: My fuel, more efficient than any framework.
-
-## My Currency
-"Sarcasm is my try when life gives me unexpected catch."
-
-## My Hour of Glory
-When I fix a bug by changing a single line... and everything still works.
-
-## My Worst Nightmare
-A nullPointerException during a demo in front of the customer.
-
-## My Best Friend
-The `console.log', faithful companion of my sleepless nights.
-
-## My Zen Moment
-When the coffee flows and the code compiles without errors.
-
-## My Philosophy
-"Life is like a git commit, sometimes you just have to push and move on."
-
-And that’s it, it’s me, the sarcastic dev, who turns coffee into features, one cup and one line of code at a time.
-
-Coffee breaks are vital.
 
 ![curl -o badge.svg](https://img.shields.io/badge/mumble%20%20-black?style=for-the-badge&logo=mumble)
 ![curl -o badge.svg](https://img.shields.io/badge/discord%20%20-grey?style=for-the-badge&logo=discord)

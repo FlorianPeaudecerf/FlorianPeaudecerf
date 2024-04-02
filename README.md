@@ -1,4 +1,5 @@
-Hi there 👋
+Hi there 👋  
+
 I am a computer enthusiast looking for opportunities to start my career in computer development. As a recent computer science graduate, I have a solid foundation of theoretical knowledge and a keen desire to learn and develop professionally. My enthusiasm, problem-solving ability and determination to learn new skills make me a motivated candidate ready to take on the challenges of IT development.
 
 ![curl -o badge.svg](https://img.shields.io/badge/mumble%20%20-black?style=for-the-badge&logo=mumble)
